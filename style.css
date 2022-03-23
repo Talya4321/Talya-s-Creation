@@ -1,0 +1,12 @@
+h1{
+    text-decoration: underline;
+}
+#Apps{
+    background-color: palevioletred;
+}
+#Games{
+    background-color: paleturquoise;
+}
+#Chatbots{
+    background-color: palegoldenrod;
+}
